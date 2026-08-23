@@ -18,7 +18,8 @@ Manages products selected by customers for purchase.
 
 \- Calculate cart contents
 
-## Initial Cart Workflow
+
+###### Initial Cart Workflow
 
 
 
@@ -31,4 +32,16 @@ Manages products selected by customers for purchase.
 4\. Customer can remove an item.
 
 5\. Cart contents are prepared for order processing.
+
+## Cart Validation Rules
+
+
+
+\- Product quantity must be greater than zero.
+
+\- Requested quantity should not exceed available stock.
+
+\- Removed products should no longer appear in the cart.
+
+\- The cart should be validated before proceeding to checkout.
 
