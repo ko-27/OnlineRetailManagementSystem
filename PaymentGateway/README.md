@@ -16,7 +16,9 @@ Handles payment-related operations for customer orders.
 
 \- Record successful or failed transactions
 
-## Payment Processing Workflow
+
+
+###### Payment Processing Workflow
 
 
 
@@ -29,4 +31,16 @@ Handles payment-related operations for customer orders.
 4\. The payment transaction is processed.
 
 5\. The payment status is recorded.
+
+## Payment Validation Rules
+
+
+
+\- Payment details must be validated before processing.
+
+\- The transaction status must be recorded.
+
+\- Failed payments should not create a completed order.
+
+\- Successful payments can proceed to order confirmation.
 
