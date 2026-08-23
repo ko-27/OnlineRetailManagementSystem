@@ -16,7 +16,8 @@ Manages the availability and stock information of products.
 
 \- Identify low-stock products
 
-## Inventory Monitoring Workflow
+
+###### Inventory Monitoring Workflow
 
 
 
@@ -27,4 +28,16 @@ Manages the availability and stock information of products.
 3\. Low-stock products are identified.
 
 4\. Inventory information is kept available for product management.
+
+## Inventory Control Rules
+
+
+
+\- Stock quantity should be updated whenever an order is completed.
+
+\- Products with zero available stock should not be treated as available.
+
+\- Low-stock products should be identified for replenishment.
+
+\- Inventory information should remain consistent with order records.
 
