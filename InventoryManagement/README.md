@@ -16,3 +16,9 @@ Manages the availability and stock information of products.
 
 \- Identify low-stock products
 
+## Main Branch Inventory Policy
+
+
+
+The main branch maintains the approved inventory policy for the retail system.
+
