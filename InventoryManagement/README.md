@@ -17,6 +17,7 @@ Manages the availability and stock information of products.
 \- Identify low-stock products
 
 
+
 ###### Inventory Monitoring Workflow
 
 
@@ -29,7 +30,8 @@ Manages the availability and stock information of products.
 
 4\. Inventory information is kept available for product management.
 
-## Inventory Control Rules
+
+###### Inventory Control Rules
 
 
 
@@ -40,4 +42,10 @@ Manages the availability and stock information of products.
 \- Low-stock products should be identified for replenishment.
 
 \- Inventory information should remain consistent with order records.
+
+## Main Branch Inventory Policy
+
+
+
+The inventory branch proposes a separate inventory policy for stock management.
 
