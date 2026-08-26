@@ -55,11 +55,8 @@ The Online Retail Management System (ORMS) is a modular software project designe
 Developer → Local Git Repository → GitHub → Jenkins → Automated Build
 
 
-###### CI Status
 
-The project is continuously validated using Jenkins CI.
-
-## Continuous Integration
+###### Continuous Integration
 
 
 
