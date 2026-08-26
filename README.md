@@ -56,7 +56,7 @@ Developer → Local Git Repository → GitHub → Jenkins → Automated Build
 
 
 
-###### Continuous Integration
+\## Continuous Integration
 
 
 
@@ -73,4 +73,6 @@ This project uses Jenkins to automatically validate changes pushed to the main b
 \- GitHub
 
 \- Jenkins
+
+Thank you!!!
 
