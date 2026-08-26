@@ -41,3 +41,5 @@ Manages the availability and stock information of products.
 
 \- Inventory information should remain consistent with order records.
 
+Happy Customers!!!
+
