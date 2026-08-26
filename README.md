@@ -74,5 +74,5 @@ This project uses Jenkins to automatically validate changes pushed to the main b
 
 \- Jenkins
 
-Thank you!!!
+
 
